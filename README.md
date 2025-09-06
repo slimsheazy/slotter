@@ -24,9 +24,7 @@ Because time is finite and calls are endless. SLOTTER keeps your day from eating
 
 
 
-## SCREENSHOTS / DEMO
-
-
+![SLOTTER DEMO](images/demo.gif)
 
 ## LICENSE
 

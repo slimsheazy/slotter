@@ -1,0 +1,5 @@
+{
+  "name": "SLOTTER",
+  "description": "A simple application to help you schedule a series of calls within a given timeframe. Input total time, number of calls, and optional buffer time to generate a detailed schedule.",
+  "requestFramePermissions": []
+}

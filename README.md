@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# SLOTTER 
 
-# Run and deploy your AI Studio app
+**Split your time. Own your calls. Done.**
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1Tr_CYETI4HWrTqN9jjuNd9iqfujJe0Sb
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+SLOTTER takes a block of total time, the number of calls you need to make, and optional buffer minutes, then outputs a clean schedule. No guessing. No wasted minutes.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+## HOW TO USE
+
+1. Open 'index.html' in a browser.
+2. Enter:
+     - **Total time** (minutes)
+     - **Number of calls**
+     - **Buffer time between calls** (optional, default= 2 min)
+3. Click **Calculate**.
+4. See your schedule. Copy it. Use it.
+
+
+
+## WHY
+
+Because time is finite and calls are endless. SLOTTER keeps your day from eating itself.
+
+
+
+## SCREENSHOTS / DEMO
+
+
+
+## LICENSE
+
+MIT
